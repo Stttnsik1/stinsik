@@ -11,7 +11,7 @@
 </html>
 
 <script src="https://unpkg.com/@tonconnect/ui@latest/dist/tonconnect-ui.min.js"></script>
-<div id="ton-connect" style="position: fixed; top: 10%; left: 32%;"></div>
+<div id="ton-connect" style="position: fixed; top: 10%; left: 30%;"></div>
 <script>
     const tonConnectUI = new TON_CONNECT_UI.TonConnectUI({
         manifestUrl: 'https://raw.githubusercontent.com/Stttnsik1/ton/main/tonconnect-manifest.json',
