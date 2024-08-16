@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(58, 58, 58);
+}
+
+h1 {
+    font-family: Arial;
+    color: white;
+}
+
+[data-tc-wallets-modal-container="true"]{
+    color: rgb(133, 132, 131);
+}
+
+.Transfer {
+    border: none;
+    border-radius: 15px;
+    color: rgb(133, 132, 131);
+    width: 200px;
+    height: 50px;
+    margin-top: 50px;
+    color: white;
+}
